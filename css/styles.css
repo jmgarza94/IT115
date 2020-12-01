@@ -1,0 +1,100 @@
+body {
+    background-color:#fff;
+  }
+  
+header{
+    margin: 0 auto;
+    width: 50%;
+    overflow: hidden;
+    align-content: center;
+}
+
+img.header{
+    /* float:left; */
+    width: 10%;
+    height: 20%;
+    position: fixed;
+    top: 10;
+    left: 0;
+}
+
+div {
+    width: 300px;
+    border: 15px solid #7ecaf6;
+    padding: 50px;
+    margin: 35px;
+  }
+
+
+h1.header{
+    /* float: right;
+    width: 70%;  */
+    text-align: center;
+}
+
+#M {
+    color: #7bd0c1;
+}
+
+#E {
+    color: #c75b9b;
+    
+}
+
+#A {
+    color: #7ecaf6;
+}
+
+#N {
+    color: #f2849e;
+}
+
+#display {
+    background-color:#7ecaf6;
+    width: 55%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    font-size: 2em;
+    margin-bottom: 10px;
+    border: 5px solid #585858;
+    border-radius: 10px;
+    
+}
+
+.currentStep {
+    text-decoration: underline;
+}
+
+button{
+    border-radius: 3em;
+    width: 25%;
+    border-radius: 4px;
+    background-image: linear-gradient(to bottom, #f2849e, #c75b9b);
+}
+
+
+section.application{
+    background:#fff ;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.welcome {
+    text-align: center;
+    
+}
+
+label{
+    display: block;
+}
+
+p{
+    font-size: 1.15em;
+}
+
+form {
+    padding-bottom: 25px;
+}
